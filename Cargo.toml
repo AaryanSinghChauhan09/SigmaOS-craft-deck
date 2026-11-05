@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_craft_deck"
+version = "0.1.0"
+edition = "2021"
+description = "Presentation and deck design tool integration for SigmaOS — slide canvas, theme system, and export"
+
+[lib]
+name = "sigmaos_craft_deck"
+path = "src/lib.rs"
