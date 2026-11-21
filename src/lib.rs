@@ -4,6 +4,9 @@
 //! slide ordering and navigation; export/render options; validation. Replaces the
 //! 22-line stub.
 
+/// Deck/presentation module.
+pub mod sigmadeck;
+
 use std::collections::BTreeMap;
 use std::fmt;
 
